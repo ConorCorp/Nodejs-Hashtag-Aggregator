@@ -1,4 +1,4 @@
-# deeplocal Coding Challenge for Conor Lamb
+# *hidden company* Coding Challenge for Conor Lamb
 
 ## Conor's Summary:
 ### Run instructions
@@ -34,15 +34,15 @@ deepLocal's tweets which would have less computation time but also be less a sho
 
 
 
-### Deeplocal Dev Take Home Exercise
+### *hidden company* Dev Take Home Exercise
 
-The goal of this exercise is for you to create a small sample of work so that Deeplocal can get a feel forhow you attack problems. We have some stipulations outlined below, but beyond those feel free touse any tools you would normally employ in your day to day work (editors, IDE’s, StackOverflow, etc.)
+The goal of this exercise is for you to create a small sample of work so that *hidden company* can get a feel forhow you attack problems. We have some stipulations outlined below, but beyond those feel free touse any tools you would normally employ in your day to day work (editors, IDE’s, StackOverflow, etc.)
 
 Please don’t spend more than 2 hours on this task.
 
 ### Challenge
 
-Deeplocal is pretty active on social media; our Twitter account (https://twitter.com/deeplocal) has over 4,000 posts. We want to know if there are any trends to our posts so we’d like you to create a tool that goes through all of our posts and aggregates the hashtags that we have used on Twitter in 2016.
+*hidden company* is pretty active on social media; our Twitter account has over 4,000 posts. We want to know if there are any trends to our posts so we’d like you to create a tool that goes through all of our posts and aggregates the hashtags that we have used on Twitter in 2016.
 
 Please write your tool using Node.js (https://nodejs.org) and provide instructions on how to install it along with all of its dependencies and run it.
 
@@ -63,6 +63,3 @@ You may use any method you choose to access our Twitter feed -- whether it be vi
 
 A link to a private git repo on github/bitbucket/whatever that includes your code along with a readme file explaining how to install + run your application.
 
-### Notes
-
-There are no intentional “gotchas” in this exercise, if something seems tricky, confusing, or impossible please contact Matthew Pegula at matthew@deeplocal.com or 412-805-4844 and we’ll get everything straightened out.
